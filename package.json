@@ -1,0 +1,27 @@
+{
+  "name": "team_profile_generator",
+  "version": "1.0.0",
+  "description": "OOP testing class assignment",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eruss13/team_profile_generator.git"
+  },
+  "author": "Ethan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eruss13/team_profile_generator/issues"
+  },
+  "homepage": "https://github.com/eruss13/team_profile_generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3",
+    "jest": "^26.6.3"
+  }
+}
